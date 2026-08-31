@@ -50,7 +50,7 @@ REVERT;
 GO
 
 -----------------------------------------------------
--- P4. Almacén puede actualizar existencia
+-- P4. AlmacÃ©n puede actualizar existencia
 -----------------------------------------------------
 USE DB_Comercializadora;
 GO
@@ -92,7 +92,7 @@ GO
 
 
 -----------------------------------------------------
---P6. Almacén NO puede registrar ventas
+--P6. AlmacÃ©n NO puede registrar ventas
 -----------------------------------------------------
 USE DB_Comercializadora;
 GO
@@ -108,7 +108,7 @@ REVERT;
 GO
 
 -----------------------------------------------------
---P7. Almacén NO puede modificar el precio
+--P7. AlmacÃ©n NO puede modificar el precio
 -----------------------------------------------------
 USE DB_Comercializadora;
 GO
@@ -123,7 +123,7 @@ REVERT;
 GO
 
 ------------------------------------------------------
---P8. Auditor puede consultar información
+--P8. Auditor puede consultar informaciÃ³n
 ------------------------------------------------------
 USE DB_Comercializadora;
 GO
@@ -137,7 +137,7 @@ REVERT;
 GO
 
 ------------------------------------------------------
---P9. Auditor NO puede modificar información
+--P9. Auditor NO puede modificar informaciÃ³n
 ------------------------------------------------------
 USE DB_Comercializadora;
 GO
